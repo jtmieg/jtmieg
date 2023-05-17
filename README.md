@@ -14,3 +14,5 @@ We are also members of the MAQC/SEQC collaboration, an FDA led assesment of the 
 
 By training, Danielle is a geneticist and molecular biologist and Jean a mathematician and theoretical physicist
 still active in quantum field theory and differential geometry (see arxiv). 
+
+This repository also contains private projects dealing with Quantum Field Theory (QFT) and Neural-Nets (NN). Please mail us if you are interested : jeanielle.mieg@gmail.com  or mieg@ncbi.nlm.nih.gov
